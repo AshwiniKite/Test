@@ -1,3 +1,3 @@
 # Test
 Test Repository
-Test repo for git commamt learning 
+Test repo for git command learning 
